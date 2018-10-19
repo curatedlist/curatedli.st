@@ -1,1 +1,3 @@
 rootProject.name = 'curated-list'
+include 'core'
+include 'application'
