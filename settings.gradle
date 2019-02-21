@@ -1,3 +1,6 @@
 rootProject.name = 'curated-list'
 include 'core'
-include 'application'
+include 'mvc'
+include 'ui'
+include 'jpa'
+include 'app'

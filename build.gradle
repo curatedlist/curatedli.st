@@ -1,2 +1,13 @@
+allprojects {
+    repositories {
+        jcenter()
+        mavenCentral()
+    }
+}
+
+subprojects {
+    version = '0.0.1-SNAPSHOT'
+}
+
 group = 'st.curatedli'
 version = '0.0.1-SNAPSHOT'
